@@ -7,7 +7,7 @@
 
 Visit https://ieeextreme.org for more information!😁<br><br>
 
-This repository contains implementations for some questions that we try at the competition. Only few of them work!
+This repository contains implementations for some questions that we tried at the competition. Only few of them work!😅
 
 ---
 
