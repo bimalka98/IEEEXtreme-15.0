@@ -14,4 +14,4 @@ This repository contains implementations for some questions that we tried at the
 ## *Team BiNaRyCoders*: World Rank 759/5561; Country Rank 64/447
 
 
-![](figures/team.png)
+![](figures/teamR.png)
