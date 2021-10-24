@@ -11,7 +11,7 @@ This repository contains implementations for some questions that we try at the c
 
 ---
 
-# Team BiNaRyCoders: World Rank 759; Country Rank 64
+# Team BiNaRyCoders: World Rank 759/5561; Country Rank 64/447
 
 
 ![](figures/team.png)
